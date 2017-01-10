@@ -1,0 +1,21 @@
+{
+  "name": "bootcamp_day2_2",
+  "version": "1.0.0",
+  "description": "Binary search lab",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Duyile Oluwatomi John",
+  "license": "ISC"
+}
